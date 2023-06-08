@@ -1,3 +1,10 @@
+/*
+File: Mountain.java
+Description: Final
+Created: 06/08/2023
+Author: Lillian Thacker
+mail: lilliat5225@student.vvc.edu.
+*/
 import java.util.ArrayList;
 import java.util.List;
 
@@ -44,3 +51,4 @@ public class Main {
         return minMountain;
     }
 }
+

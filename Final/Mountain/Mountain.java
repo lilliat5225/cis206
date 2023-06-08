@@ -1,5 +1,10 @@
-// Mountain.java
-
+/* 
+ File: Mountain.java
+ Description: Final
+ Created: 06/08/2023
+Author: Lillian Thacker
+ mail: lilliat5225@student.vvc.edu.
+*/
 public class Mountain {
     private String name;
     private String country;
